@@ -1,4 +1,5 @@
 import streamlit as st
+import random
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
